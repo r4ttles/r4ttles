@@ -25,5 +25,5 @@ When not hacking (ethically), I enjoy exploring new tech trends and improving my
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rattl-s&show_icons=true&theme=radical" alt="Rattl-s's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rattl-s&show_icons=true&theme=radical" alt="r4ttles's GitHub stats" />
 </p>
